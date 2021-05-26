@@ -2,7 +2,7 @@
 
 A comprehensive analysis of the Android app market by comparing over ten thousand apps in Google Play
 
-
+![Alt Text](https://github.com/aayanmaity/Analysing-the-andriod-app-market/blob/main/images/Project%20Image.png)
 
 ## Project:
 
